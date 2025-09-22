@@ -27,6 +27,7 @@ apply plugin: 'kotlin-android'
 
 android {
     compileSdkVersion 33
+    namespace 'com.flutter.moum.screenshot_callback'
 
     defaultConfig {
         minSdkVersion 21
